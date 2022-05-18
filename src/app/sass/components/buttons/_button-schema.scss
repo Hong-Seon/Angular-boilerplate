@@ -1,0 +1,27 @@
+$button-schema: (
+  border-radius: 4px,
+  resting-background: (
+    color: ('primary', 600)
+  ),
+  resting-text-color: (
+    contrast-color: ('primary', 600)
+  ),
+  hover-background: (
+    color: ('primary', 200)
+  ),
+  hover-text-color: (
+    contrast-color: ('primary', 200)
+  ),
+  focus-background: (
+    color: ('primary', 300)
+  ),
+  focus-text-color: (
+    contrast-color: ('primary', 300)
+  ),
+  disabled-background: (
+    color: ('gray', 100)
+  ),
+  disabled-text-color: (
+    color: ('gray', 400),
+  ),
+);

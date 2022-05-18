@@ -35,7 +35,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/sass/style.scss"
+              "src/sass/styles.scss"
             ],
             "scripts": []
           },
@@ -104,7 +104,6 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/sass/style.scss"
             ],
             "scripts": []
           }
@@ -131,7 +130,6 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/sass/style.scss"
             ],
             "scripts": []
           },
